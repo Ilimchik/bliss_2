@@ -166,3 +166,8 @@ section {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+/* header */
+.head_logo img {
+	width: 211px;
+	height: 50px;
+}
